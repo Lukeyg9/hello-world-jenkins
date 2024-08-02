@@ -6,7 +6,7 @@ pipeline {
                 script {
                     echo 'Executing Hello World script...'
                 }
-                sh 'echo Hello World'
+                sh 'echo Hello World (1)'
             }
         }
     }
